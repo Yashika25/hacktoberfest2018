@@ -339,3 +339,10 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: [Yashika Kalra](https://github.com/Yashika25)<br/>
+Place: Delhi, India<br/>
+About: B.Tech ECE Student at ASET,Noida and Android Developer in the making<br/>
+Programming Languages Known: C, C++, Android, Java, Arduino, Basic HTML, Basic Python<br/>
+Email: yashika99@ieee.org<br/>
+
