@@ -346,3 +346,9 @@ About: B.Tech ECE Student at ASET,Noida and Android Developer in the making<br/>
 Programming Languages Known: C, C++, Android, Java, Arduino, Basic HTML, Basic Python<br/>
 Email: yashika99@ieee.org<br/>
 
+Name: [Mahima](https://github.com/MAHIMA01)<br/>
+Place: Delhi, India<br/>
+About: Final Year B.Tech IT Student at TIT&S College, MDU, Haryana<br/>
+Interested fields: AWS, Web Development<br/>
+Email: mahimakalra99@gmail.com<br/>
+
