@@ -346,3 +346,8 @@ About: B.Tech ECE Student at ASET,Noida and Android Developer in the making<br/>
 Programming Languages Known: C, C++, Android, Java, Arduino, Basic HTML, Basic Python<br/>
 Email: yashika99@ieee.org<br/>
 
+Name: [Ishaan Bhatia](https://github.com/Ishaan-0098)<br/>
+Place: Delhi, India<br/>
+About: B.Tech ECE Student at ASET,Noida<br/>
+Programming Languages Known: C, C++, Android,  Arduino, Basic HTML, Basic Python<br/>
+Email: ishanbhatia0@gmail.com<br/>
